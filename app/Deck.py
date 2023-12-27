@@ -1,4 +1,4 @@
-from Card import Card
+from app.Card import Card
 
 
 class Deck:

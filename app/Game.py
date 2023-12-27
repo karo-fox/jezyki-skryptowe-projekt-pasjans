@@ -1,5 +1,5 @@
-from Board import Board
-from Card import Card
+from app.Board import Board
+from app.Card import Card
 
 
 class Game:

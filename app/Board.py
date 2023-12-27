@@ -1,5 +1,5 @@
-from Deck import Deck
-from Card import Card
+from app.Deck import Deck
+from app.Card import Card
 
 
 class Board:
