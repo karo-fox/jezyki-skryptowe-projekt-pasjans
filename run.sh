@@ -2,23 +2,14 @@
 
 wd=$(dirname $0);
 
-if [ ! -d  "$wd/out" ]; then
-    mkdir $wd/out;
-fi
+files=()
 
-# if [ ! -d "$wd/in" ]; then
-#     mkdir $wd/in;
-# fi
+for file in ./in/*; do
+    file_number=${file:7:1}
+    file_name=./out/out$file_number.txt
+    games_counter=$(cat $file)
+    python -m main $games_counter > $file_name
+    files+=($file_name)
+done
 
-if [ ! -d  "$wd/backup" ]; then
-    mkdir $wd/backup;
-fi
-
-count=$(ls $wd/out | wc -l);
-file_number=$(expr $count + 1);
-
-python -m main > $wd/out/out$file_number.txt;
-
-if [ $(ls $wd/backup | wc -l) -eq 0 ]; then
-    cat $wd/out/out$file_number.txt > $wd/backup/backup.txt;
-fi
+python -m html_report ${files[*]} > ./report/index.html
