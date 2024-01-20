@@ -1,0 +1,194 @@
+XXX	XXX	XXX	XXX	
+XXX	XXX	XXX	XXX	
+XXX	XXX	XXX	XXX	
+XXX	XXX	XXX	XXX	
+XXX	XXX	XXX	XXX	
+XXX	XXX	XXX	
+hand: K♥
+
+XXX	XXX	XXX	XXX	
+XXX	XXX	XXX	XXX	
+XXX	XXX	XXX	XXX	
+XXX	XXX	XXX	XXX	
+K♥	XXX	XXX	XXX	
+XXX	XXX	XXX	
+hand: Q♥
+
+XXX	XXX	XXX	XXX	
+XXX	XXX	XXX	XXX	
+XXX	XXX	XXX	XXX	
+Q♥	XXX	XXX	XXX	
+K♥	XXX	XXX	XXX	
+XXX	XXX	XXX	
+hand: Q♦
+
+XXX	XXX	XXX	XXX	
+XXX	XXX	XXX	XXX	
+XXX	XXX	XXX	XXX	
+Q♥	Q♦	XXX	XXX	
+K♥	XXX	XXX	XXX	
+XXX	XXX	XXX	
+hand: 9♥
+
+9♥	XXX	XXX	XXX	
+XXX	XXX	XXX	XXX	
+XXX	XXX	XXX	XXX	
+Q♥	Q♦	XXX	XXX	
+K♥	XXX	XXX	XXX	
+XXX	XXX	XXX	
+hand: A♥
+
+9♥	XXX	XXX	XXX	
+XXX	XXX	XXX	XXX	
+XXX	XXX	XXX	XXX	
+Q♥	Q♦	XXX	XXX	
+K♥	XXX	XXX	XXX	
+A♥	XXX	XXX	
+hand: 10♥
+
+9♥	XXX	XXX	XXX	
+10♥	XXX	XXX	XXX	
+XXX	XXX	XXX	XXX	
+Q♥	Q♦	XXX	XXX	
+K♥	XXX	XXX	XXX	
+A♥	XXX	XXX	
+hand: Q♣
+
+9♥	XXX	XXX	XXX	
+10♥	XXX	XXX	XXX	
+XXX	XXX	XXX	XXX	
+Q♥	Q♦	Q♣	XXX	
+K♥	XXX	XXX	XXX	
+A♥	XXX	XXX	
+hand: A♦
+
+9♥	XXX	XXX	XXX	
+10♥	XXX	XXX	XXX	
+XXX	XXX	XXX	XXX	
+Q♥	Q♦	Q♣	XXX	
+K♥	XXX	XXX	XXX	
+A♥	A♦	XXX	
+hand: J♠
+
+9♥	XXX	XXX	XXX	
+10♥	XXX	XXX	XXX	
+XXX	XXX	XXX	J♠	
+Q♥	Q♦	Q♣	XXX	
+K♥	XXX	XXX	XXX	
+A♥	A♦	XXX	
+hand: K♦
+
+9♥	XXX	XXX	XXX	
+10♥	XXX	XXX	XXX	
+XXX	XXX	XXX	J♠	
+Q♥	Q♦	Q♣	XXX	
+K♥	K♦	XXX	XXX	
+A♥	A♦	XXX	
+hand: 9♦
+
+9♥	9♦	XXX	XXX	
+10♥	XXX	XXX	XXX	
+XXX	XXX	XXX	J♠	
+Q♥	Q♦	Q♣	XXX	
+K♥	K♦	XXX	XXX	
+A♥	A♦	XXX	
+hand: K♣
+
+9♥	9♦	XXX	XXX	
+10♥	XXX	XXX	XXX	
+XXX	XXX	XXX	J♠	
+Q♥	Q♦	Q♣	XXX	
+K♥	K♦	K♣	XXX	
+A♥	A♦	XXX	
+hand: A♣
+
+9♥	9♦	XXX	XXX	
+10♥	XXX	XXX	XXX	
+XXX	XXX	XXX	J♠	
+Q♥	Q♦	Q♣	XXX	
+K♥	K♦	K♣	XXX	
+A♥	A♦	A♣	
+hand: 9♠
+
+9♥	9♦	XXX	9♠	
+10♥	XXX	XXX	XXX	
+XXX	XXX	XXX	J♠	
+Q♥	Q♦	Q♣	XXX	
+K♥	K♦	K♣	XXX	
+A♥	A♦	A♣	
+hand: 10♠
+
+9♥	9♦	XXX	9♠	
+10♥	XXX	XXX	10♠	
+XXX	XXX	XXX	J♠	
+Q♥	Q♦	Q♣	XXX	
+K♥	K♦	K♣	XXX	
+A♥	A♦	A♣	
+hand: J♥
+
+9♥	9♦	XXX	9♠	
+10♥	XXX	XXX	10♠	
+J♥	XXX	XXX	J♠	
+Q♥	Q♦	Q♣	XXX	
+K♥	K♦	K♣	XXX	
+A♥	A♦	A♣	
+hand: 9♣
+
+9♥	9♦	9♣	9♠	
+10♥	XXX	XXX	10♠	
+J♥	XXX	XXX	J♠	
+Q♥	Q♦	Q♣	XXX	
+K♥	K♦	K♣	XXX	
+A♥	A♦	A♣	
+hand: K♠
+
+9♥	9♦	9♣	9♠	
+10♥	XXX	XXX	10♠	
+J♥	XXX	XXX	J♠	
+Q♥	Q♦	Q♣	XXX	
+K♥	K♦	K♣	K♠	
+A♥	A♦	A♣	
+hand: 10♣
+
+9♥	9♦	9♣	9♠	
+10♥	XXX	10♣	10♠	
+J♥	XXX	XXX	J♠	
+Q♥	Q♦	Q♣	XXX	
+K♥	K♦	K♣	K♠	
+A♥	A♦	A♣	
+hand: J♦
+
+9♥	9♦	9♣	9♠	
+10♥	XXX	10♣	10♠	
+J♥	J♦	XXX	J♠	
+Q♥	Q♦	Q♣	XXX	
+K♥	K♦	K♣	K♠	
+A♥	A♦	A♣	
+hand: J♣
+
+9♥	9♦	9♣	9♠	
+10♥	XXX	10♣	10♠	
+J♥	J♦	J♣	J♠	
+Q♥	Q♦	Q♣	XXX	
+K♥	K♦	K♣	K♠	
+A♥	A♦	A♣	
+hand: Q♠
+
+9♥	9♦	9♣	9♠	
+10♥	XXX	10♣	10♠	
+J♥	J♦	J♣	J♠	
+Q♥	Q♦	Q♣	Q♠	
+K♥	K♦	K♣	K♠	
+A♥	A♦	A♣	
+hand: 10♦
+
+9♥	9♦	9♣	9♠	
+10♥	10♦	10♣	10♠	
+J♥	J♦	J♣	J♠	
+Q♥	Q♦	Q♣	Q♠	
+K♥	K♦	K♣	K♠	
+A♥	A♦	A♣	
+hand: A♠
+
+15
+True
