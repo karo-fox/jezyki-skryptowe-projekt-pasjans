@@ -1,5 +1,17 @@
 #!/bin/bash
 
+help() {
+    echo """Składnia: run.sh [opcje]
+
+    Dla każdego pliku w katalogu ./in wykonuje zadanie algorytmiczne, którego wynik zapisuje w katalogu ./out
+
+    Opcje:
+     -r, --report   po ukończeniu zadania utwórz raport html z wynikami
+     -b, --backup   dodaj backup ostatniego wygenerowanego raportu 
+                    z obecnym timestampem
+     -h, --help     wyświetla pomoc"""
+}
+
 wd=$(dirname $0);
 
 files=()
@@ -12,5 +24,13 @@ for file in ./in/*; do
     files+=($file_name)
 done
 
-python -m html_report ${files[*]} > ./report/index.html
-python -m backup
+while [[ $# -gt 0 ]]; do
+    case "$1" in
+        -b | --backup) python -m backup ;;
+        -r | --report) python -m html_report ${files[*]} > ./report/index.html; firefox ./report/index.html ;;
+        -h | --help) help ;;
+    esac
+    shift
+done
+
+
