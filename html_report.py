@@ -36,4 +36,5 @@ if __name__ == "__main__":
 
     template = Template(open("./template/index.html").read())
     data = parse(files)
+
     print(template.render(data=data))
